@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url('subset-OfficinaSansBookCc707f.woff2') format('woff2'),
+        url('http://to.trump-card.netxi.in.netxi.in/files/subset-OfficinaSansBookC39839.woff') format('woff'),
+        url('http://to.trump-card.netxi.in.netxi.in/files/subset-OfficinaSansBookCe8641.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url('subset-OfficinaSansBoldC39575.woff2') format('woff2'),
+        url('http://to.trump-card.netxi.in.netxi.in/files/subset-OfficinaSansBoldC5d0e5.woff') format('woff'),
+        url('http://to.trump-card.netxi.in.netxi.in/files/subset-OfficinaSansBoldC06e2e.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url('subset-OfficinaSansBlackC1cd41.woff2') format('woff2'),
+        url('http://to.trump-card.netxi.in.netxi.in/files/subset-OfficinaSansBlackCdec6a.woff') format('woff'),
+        url('http://to.trump-card.netxi.in.netxi.in/files/subset-OfficinaSansBlackC6de24.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}

@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('http://to.trump-card.netxi.in.netxi.in/files/robotothin86000.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotothinfd30f.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotothin6243f.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('http://to.trump-card.netxi.in.netxi.in/files/robotothinitalic7e97e.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotothinitalic9cdf9.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotothinitalic02d0b.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('http://to.trump-card.netxi.in.netxi.in/files/robotolight0458b.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotolight334ad.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotolighta8417.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('http://to.trump-card.netxi.in.netxi.in/files/robotolightitalicf042d.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotolightitalic1e353.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotolightitaliceccc8.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('http://to.trump-card.netxi.in.netxi.in/files/roboto12efd.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotodfd90.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/roboto78304.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoitalic5657a.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoitalic73e9e.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoitalic896ea.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('http://to.trump-card.netxi.in.netxi.in/files/robotomedium81087.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotomedium751e2.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotomediumf87ca.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('http://to.trump-card.netxi.in.netxi.in/files/robotomediumitalic92d44.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotomediumitaliced53e.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotomediumitalic1905a.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('http://to.trump-card.netxi.in.netxi.in/files/robotobold093d8.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotobold17142.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoboldd21c0.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('http://to.trump-card.netxi.in.netxi.in/files/robotobolditalicb6cc4.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotobolditalicc2a9d.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotobolditalic1738b.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoblack12f35.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoblackd8dd7.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoblackc9fbd.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoblackitalic23dfe.woff2') format('woff2'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoblackitalic25f01.woff') format('woff'), url('http://to.trump-card.netxi.in.netxi.in/files/robotoblackitalicee838.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
